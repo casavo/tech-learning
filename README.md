@@ -74,7 +74,7 @@
 
 ## Technologies
 
-### Elixir
+### [Elixir](elixir.md)
 
 ### PHP
 
@@ -135,4 +135,3 @@
 ### CQRS + Event Sourcing
 
 ### Event Driven Architecture
-
