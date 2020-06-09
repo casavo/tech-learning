@@ -8,7 +8,7 @@
 
 ## Methodologies & techniques
 
-### [eXtreme Programming (XP)]((eXtremeProgramming.md))
+### [eXtreme Programming (XP)](eXtremeProgramming.md)
 
 ### Scrum
 
