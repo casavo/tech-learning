@@ -8,6 +8,9 @@ This teaches you how to apply Elixir to practical problems associated with scala
 ### [James Edward Gray, II and Bruce A. Tate - Designing Elixir Systems with OTP](https://pragprog.com/titles/jgotp/)
 This teaches you how to design libraries with intelligent layers that shape the right data structures, flow from one function into the next, and present the right APIs.
 
+### [Programming Elixir 1.6](https://pragprog.com/titles/elixir16/)
+This book is the introduction to Elixir for experienced programmers, completely updated for Elixir 1.6 and beyond.
+
 
 ## Communities
 
