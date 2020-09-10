@@ -92,6 +92,8 @@
 
 ### [Data Science](dataScience.md)
 
+### [Machine Learning](machineLearning.md)
+
 ### Kubernetes (k8s)
 
 ### Docker
