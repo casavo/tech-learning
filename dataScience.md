@@ -4,7 +4,7 @@
 
 "**Data Science**" is a largely overrated term (probably a buzzword) to describe the activity of **extracting value from data**.
 
-Actually Data Science only account for less than half of the process but the term is used to describe both the first part and the whole process. You know, naming is harder than caching invalidation.
+Actually Data Science only account for less than half of the process but the term is used to describe both the first part and the whole process. You know, naming is harder than cache invalidation.
 
 ## What are the main roles in Data Science?
 
