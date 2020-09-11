@@ -24,13 +24,13 @@ Input data could come, potentially, from any source (external API, databases, fi
 
 ### Data Architect
 
-**Data Architecture** is the discipline of designing the overall structure of Data in a company. This includes where data is ingested in the system, how is processed, where is stored, how long is retained and who is able to access, ...
+**Data Architecture** is the discipline of designing the overall structure of Data in a company. This includes where data is ingested in the system, how is processed, where is stored, how long is retained and who is able to access and so on.
 
-The **Data Architect** talks with business stakeholder, data scientist, data engineer and tech people to design the Data pipeline according to everyone's requirements.
+The **Data Architect** talks with business stakeholder, data scientist, data engineer and tech people to design the Data pipeline flow according to everyone's requirements.
 
 ### Other roles
 
-Many other roles are listed especially on the big companies org charts. Data Steward, Data Analysts, Data Governance, Big Data Engineer. Some of them exist because of the special needs of the company. The other could easily fit the other three roles and usually represents a specialization.
+Many other roles are listed especially on the big companies org charts. Data Steward, Data Analysts, Data Governance, Big Data Engineer. Some of them exist because of the special needs of the company. The others could easily fit the other three roles and usually represents a specialization.
 
 ## What are tools and metodologies used in Data Science?
 
@@ -50,7 +50,7 @@ A notebook is an interactive inteface used to explore data. Code is split in cel
 
 ### The Hadoop Ecosystem
 
-The [Apache Hadoop](https://hadoop.apache.org/) project started in 2006 trying to reimplement [Google work](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf). During the last decade, hundreds of project growth around that sharing the basic setting. They are called the **Hadoop Ecosystem**
+The [Apache Hadoop](https://hadoop.apache.org/) project started in 2006 trying to reimplement [Google work](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf). During the last decade, hundreds of project growth around that sharing the basic setting. They are called the **Hadoop Ecosystem**.
 
 ### DataOps
 
@@ -80,6 +80,12 @@ The [Apache Hadoop](https://hadoop.apache.org/) project started in 2006 trying t
 
 - [Spark: The Definitive Guide: Big Data Processing Made Simple](https://www.amazon.com/Spark-Definitive-Guide-Processing-Simple-ebook/dp/B079P71JHY/)
 - [High Performance Spark: Best Practices for Scaling and Optimizing Apache Spark](https://www.amazon.com/High-Performance-Spark-Practices-Optimizing/dp/1491943203)
+
+### Online Courses about Data
+
+- [Data Engineer with Python (DataCamp)](https://www.datacamp.com/tracks/data-engineer-with-python)
+- [Data Scientist with Python (DataCamp)](https://www.datacamp.com/tracks/data-scientist-with-python)
+
 
 ## I found a different classification, why?
 
