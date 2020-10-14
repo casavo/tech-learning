@@ -137,3 +137,10 @@
 ### CQRS + Event Sourcing
 
 ### Event Driven Architecture
+
+--- 
+
+## Testing and Quality Assurance
+
+### [Agile Testing Quadrants](testingAndQualityAssurance/agileTestingQuadrants.md)
+
