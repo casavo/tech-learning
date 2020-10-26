@@ -87,6 +87,28 @@ and present the right APIs.
 | **Duration**  |   |
 |---------------|---|
 
+### [Metaprogramming Elixir Write Less Code, Get More Done (and Have Fun!)](https://pragprog.com/titles/cmelixir/metaprogramming-elixir/)
+Write code that writes code with Elixir macros. Macros make
+metaprogramming possible and define the language itself. In this book,
+you’ll learn how to use macros to extend the language with fast,
+maintainable code and share functionality in ways you never thought
+possible. You’ll discover how to extend Elixir with your own
+first-class features, optimize performance, and create domain-specific
+languages.
+
+|---------------|---|
+| **Purpose**   |   |
+|---------------|---|
+| **Takeaways** |   |
+|---------------|---|
+| **Target**    |   |
+|---------------|---|
+| **Format**    |   |
+|---------------|---|
+| **Content**   |   |
+|---------------|---|
+| **Duration**  |   |
+|---------------|---|
 
 
 
