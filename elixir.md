@@ -49,10 +49,44 @@ This book is the introduction to Elixir for experienced programmers, completely 
 |---------------|--------------------------------------------------------------------------------------------------------------------------------|
 
 ### [Saša Jurić - Elixir in Action, Second Edition](https://www.manning.com/books/elixir-in-action-second-edition)
-This teaches you how to apply Elixir to practical problems associated with scalability, fault tolerance, and high availability. Along the way, you'll develop an appreciation for, and considerable skill in, a functional and concurrent style of programming.
+This teaches you how to apply Elixir to practical problems associated
+with scalability, fault tolerance, and high availability. Along the
+way, you'll develop an appreciation for, and considerable skill in, a
+functional and concurrent style of programming.
+
+|---------------|---|
+| **Purpose**   |   |
+|---------------|---|
+| **Takeaways** |   |
+|---------------|---|
+| **Target**    |   |
+|---------------|---|
+| **Format**    |   |
+|---------------|---|
+| **Content**   |   |
+|---------------|---|
+| **Duration**  |   |
+|---------------|---|
 
 ### [James Edward Gray, II and Bruce A. Tate - Designing Elixir Systems with OTP](https://pragprog.com/titles/jgotp/)
-This teaches you how to design libraries with intelligent layers that shape the right data structures, flow from one function into the next, and present the right APIs.
+This teaches you how to design libraries with intelligent layers that
+shape the right data structures, flow from one function into the next,
+and present the right APIs.
+
+|---------------|---|
+| **Purpose**   |   |
+|---------------|---|
+| **Takeaways** |   |
+|---------------|---|
+| **Target**    |   |
+|---------------|---|
+| **Format**    |   |
+|---------------|---|
+| **Content**   |   |
+|---------------|---|
+| **Duration**  |   |
+|---------------|---|
+
 
 
 
