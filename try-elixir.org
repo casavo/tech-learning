@@ -97,7 +97,17 @@
 | *Format*    | Book (paper / digital)                                                                                 |
 |             | Can be studied autonomously or guided by an internal tutor                                             |
 |-------------+--------------------------------------------------------------------------------------------------------|
-| *Content*   | TO DO - luca                                                                                           |
+| *Content*   | - Build Your Project in Layers                                                                         |
+|             | - Choose the Right Datatypes                                                                           |
+|             | - How to design with the Right Data Layer                                                              |
+|             | - Build a Functional Core                                                                              |
+|             | - Test Your Core                                                                                       |
+|             | - Isolate Process Machinery in a Boundary                                                              |
+|             | - Customize Your Lifecycle                                                                             |
+|             | - Assemble Your Components                                                                             |
+|             | - Test the Boundary                                                                                    |
+|             | - Integrate OTP Dependencies into Phoenix                                                              |
+|             | - Configure Applications to Start Supervisors                                                          |
 |-------------+--------------------------------------------------------------------------------------------------------|
 | *Duration*  | 35 hours                                                                                               |
 |-------------+--------------------------------------------------------------------------------------------------------|
@@ -137,7 +147,20 @@
 | *Format*    | Book (paper / digital)                                                                                              |
 |             | Can be studied autonomously or guided by an internal tutor                                                          |
 |-------------+---------------------------------------------------------------------------------------------------------------------|
-| *Content*   | TODO - luca                                                                                                         |
+| *Content*   | - Foundations of Property-Based Testing                                                                             |
+|             | - Property-Based Testing in Your Project                                                                            |
+|             | - Structure of Properties                                                                                           |
+|             | - Thinking in Properties                                                                                            |
+|             | - Generalizing Example Tests                                                                                        |
+|             | - Symmetric Properties                                                                                              |
+|             | - Custom Generators                                                                                                 |
+|             | - Fancy Custom Generators                                                                                           |
+|             | - Responsible Testing                                                                                               |
+|             | - Properties-Driven Development                                                                                     |
+|             | - Shrinking                                                                                                         |
+|             | - Understanding Targeted Properties                                                                                 |
+|             | - Laying Out Stateful Properties                                                                                    |
+|             | - Laying Out State Machine Properties                                                                               |
 |-------------+---------------------------------------------------------------------------------------------------------------------|
 | *Duration*  | 35 hours                                                                                                            |
 |-------------+---------------------------------------------------------------------------------------------------------------------|
