@@ -1,3 +1,10 @@
+#+TITLE: elixir
+
+* Books
+
+[[https://pragprog.com/titles/elixir16/][Programming Elixir 1.6]]
+This book is the introduction to Elixir for experienced programmers, completely updated for Elixir 1.6 and beyond.
+
 |---------------+--------------------------------------------------------------------------------------------------------------------------------|
 | **Purpose**   | Learn the basics of the language (syntax and semantic), its functional style and introduce some aspects of the platform (BEAM) |
 |---------------+--------------------------------------------------------------------------------------------------------------------------------|
