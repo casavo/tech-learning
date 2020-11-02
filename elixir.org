@@ -236,7 +236,6 @@
 | *Duration*  | N/A                                                        |
 |-------------+------------------------------------------------------------|
 
-
 * Communities
 
 [[https://beam-italia.slack.com/][beam-italia]]
