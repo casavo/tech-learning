@@ -1,6 +1,6 @@
 #+TITLE: elixir
 
-* Books
+* Books & Courses
 
 [[https://pragprog.com/titles/elixir16/][Programming Elixir 1.6]]
 
