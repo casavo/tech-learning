@@ -25,14 +25,14 @@
 |             | - Modules and Named Functions                                                                                                  |
 |             | - Lists and Recursion excerpt                                                                                                  |
 |             | - Maps, Keyword Lists, Sets, and Structs                                                                                       |
-|             | - An Aside—What Are Types?                                                                                                     |
+|             | - An Aside - What Are Types?                                                                                                   |
 |             | - Processing Collections—Enum and Stream                                                                                       |
 |             | - Strings and Binaries                                                                                                         |
 |             | - Control Flow                                                                                                                 |
 |             | - Organizing a Project                                                                                                         |
 |             | - Tooling excerpt                                                                                                              |
 |             | - Working with Multiple Processes                                                                                              |
-|             | - Nodes—The Key to Distributing Services                                                                                       |
+|             | - Nodes - The Key to Distributing Services                                                                                     |
 |             | - OTP: Servers                                                                                                                 |
 |             | - OTP: Supervisors                                                                                                             |
 |             | - A More Complex Example                                                                                                       |
@@ -40,7 +40,7 @@
 |             | - Tasks and Agents                                                                                                             |
 |             | - Macros and Code Evaluation                                                                                                   |
 |             | - Linking Modules: Behavio(u)rs and use                                                                                        |
-|             | - Protocols—Polymorphic Functions                                                                                              |
+|             | - Protocols - Polymorphic Functions                                                                                            |
 |             | - Writing Your Own Sigils                                                                                                      |
 |             | - Multi-app Umbrella Projects                                                                                                  |
 |-------------+--------------------------------------------------------------------------------------------------------------------------------|
@@ -49,19 +49,19 @@
 
 [[https://pragmaticstudio.com/courses/elixir][Elixir & OTP]]
 
-|-------------+------------------------------|
-| *Purpose*   | TODO luca                    |
-|-------------+------------------------------|
-| *Takeaways* |                              |
-|-------------+------------------------------|
-| *Target*    |                              |
-|-------------+------------------------------|
-| *Format*    | Online course with exercises |
-|-------------+------------------------------|
-| *Content*   |                              |
-|-------------+------------------------------|
-| *Duration*  |                              |
-|-------------+------------------------------|
+|-------------+----------------------------------------------------------------------------------------------------------|
+| *Purpose*   | Learn how to build a real Elixir/OTP application                                                         |
+|-------------+----------------------------------------------------------------------------------------------------------|
+| *Takeaways* | -                                                                                                        |
+|-------------+----------------------------------------------------------------------------------------------------------|
+| *Target*    | Programmers with previous knowledge of Elixir language but doesn't know how to design a real application |
+|-------------+----------------------------------------------------------------------------------------------------------|
+| *Format*    | Online course with exercises                                                                             |
+|-------------+----------------------------------------------------------------------------------------------------------|
+| *Content*   | -                                                                                                        |
+|-------------+----------------------------------------------------------------------------------------------------------|
+| *Duration*  | 6 hours                                                                                                  |
+|-------------+----------------------------------------------------------------------------------------------------------|
 
 [[https://www.manning.com/books/elixir-in-action-second-edition][Saša Jurić - Elixir in Action, Second Edition]]
 
@@ -186,21 +186,22 @@
 
 [[https://pragmaticstudio.com/courses/unpacked-full-stack-graphql-with-absinthe-phoenix-react][Full-Stack GraphQL with Absinthe, Phoenix, and React]]
 
-|-------------+-------------|
-| *Purpose*   | TODO danilo |
-|-------------+-------------|
-| *Takeaways* |             |
-|-------------+-------------|
-| *Target*    |             |
-|-------------+-------------|
-| *Format*    |             |
-|-------------+-------------|
-| *Content*   |             |
-|-------------+-------------|
-| *Duration*  |             |
-|-------------+-------------|
+|-------------+--------------------------------------------------------------------------------------------------------|
+| *Purpose*   | Explore the design and code of a full-featured application with specific libraries                     |
+|-------------+--------------------------------------------------------------------------------------------------------|
+| *Takeaways* | -                                                                                                      |
+|-------------+--------------------------------------------------------------------------------------------------------|
+| *Target*    | Programmers with previous knowledge of Elixir language and know how to design a basic real application |
+|-------------+--------------------------------------------------------------------------------------------------------|
+| *Format*    | Online course with exercises                                                                           |
+|-------------+--------------------------------------------------------------------------------------------------------|
+| *Content*   | -                                                                                                      |
+|-------------+--------------------------------------------------------------------------------------------------------|
+| *Duration*  | 4.5 hours                                                                                              |
+|-------------+--------------------------------------------------------------------------------------------------------|
 
 * Code practice
+
 
 [[https://exercism.io/tracks/elixir][exercism]]
 
@@ -220,6 +221,7 @@
 
 * Kata
 
+
 [[https://github.com/sandromancuso/cleancoders_openchat/tree/starting-point][cleancoders_openchat]]
 
 |-------------+------------------------------------------------------------|
@@ -237,5 +239,6 @@
 |-------------+------------------------------------------------------------|
 
 * Communities
+
 
 [[https://beam-italia.slack.com/][beam-italia]]
