@@ -66,7 +66,7 @@
 [[https://www.manning.com/books/elixir-in-action-second-edition][Saša Jurić - Elixir in Action, Second Edition]]
 
 |-------------+----------------------------------------------------------------------------------------------------------------------|
-| *Purpose*   | Teach how to apply Elixir to practical problems associated with scalability, fault tolerance, and high availability. |
+| *Purpose*   | Learn how to apply Elixir to practical problems associated with scalability, fault tolerance, and high availability. |
 |-------------+----------------------------------------------------------------------------------------------------------------------|
 | *Takeaways* | - Deal with the challenge of high availability                                                                       |
 |             | - How to build production-ready, Elixir-based systems                                                                |
@@ -78,7 +78,19 @@
 | *Format*    | Book (paper / digital)                                                                                               |
 |             | Can be studied autonomously or guided by an internal tutor                                                           |
 |-------------+----------------------------------------------------------------------------------------------------------------------|
-| *Content*   | TO DO - fabio                                                                                                        |
+| *Content*   | - First steps                                                                                                        |
+|             | - Building blocks                                                                                                    |
+|             | - Control flow                                                                                                       |
+|             | - Data abstractions                                                                                                  |
+|             | - Concurrency primitives                                                                                             |
+|             | - Generic server processes                                                                                           |
+|             | - Building a concurrent system                                                                                       |
+|             | - Fault-tolerance basics                                                                                             |
+|             | - Isolating error effects                                                                                            |
+|             | - Beyond GenServer                                                                                                   |
+|             | - Working with components                                                                                            |
+|             | - Building a distributed system                                                                                      |
+|             | - Running the system                                                                                                 |
 |-------------+----------------------------------------------------------------------------------------------------------------------|
 | *Duration*  | 50 hours                                                                                                             |
 |-------------+----------------------------------------------------------------------------------------------------------------------|
@@ -86,7 +98,7 @@
 [[https://pragprog.com/titles/jgotp/][James Edward Gray, II and Bruce A. Tate - Designing Elixir Systems with OTP]]
 
 |-------------+--------------------------------------------------------------------------------------------------------|
-| *Purpose*   | Teach how to design and test typical OTP project                                                       |
+| *Purpose*   | Learn how to design and test typical OTP project                                                       |
 |-------------+--------------------------------------------------------------------------------------------------------|
 | *Takeaways* | - Opinionated way to structure a Elixir/OTP application                                                |
 |             | - Improve confidence layering Elixir/OTP application                                                   |
@@ -115,7 +127,7 @@
 [[https://pragprog.com/titles/cmelixir/metaprogramming-elixir/][Metaprogramming Elixir Write Less Code, Get More Done (and Have Fun!]]
 
 |-------------+-----------------------------------------------------------------------------------------------------------------|
-| *Purpose*   | Teach the very basics of metaprogramming all the way to writing your own language features and custom libraries |
+| *Purpose*   | Learn the very basics of metaprogramming all the way to writing your own language features and custom libraries |
 |-------------+-----------------------------------------------------------------------------------------------------------------|
 | *Takeaways* | - Understanding the basics of Elixir’s metaprogramming system with macros and the abstract syntax tree          |
 |             | - Extending Elixir with your own first-class features                                                           |
@@ -128,7 +140,14 @@
 | *Format*    | Book (paper / digital)                                                                                          |
 |             | Can be studied autonomously or guided by an internal tutor                                                      |
 |-------------+-----------------------------------------------------------------------------------------------------------------|
-| *Content*   | TODO - fabio                                                                                                    |
+| *Content*   | - Introduction                                                                                                  |
+|             | - The Language of Macros *excerpt                                                                               |
+|             | - Extending Elixir with Metaprogramming                                                                         |
+|             | - Advanced Compile-Time Code Generation                                                                         |
+|             | - How to Test Macros                                                                                            |
+|             | - Creating an HTML Domain-Specific Language                                                                     |
+|             | - Getting Domain Specific                                                                                       |
+|             | - With Great Power Comes Great Responsibility (and Fun!)                                                        |
 |-------------+-----------------------------------------------------------------------------------------------------------------|
 | *Duration*  | 30 hours                                                                                                        |
 |-------------+-----------------------------------------------------------------------------------------------------------------|
