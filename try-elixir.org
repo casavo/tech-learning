@@ -5,7 +5,7 @@
 [[https://pragprog.com/titles/elixir16/][Programming Elixir 1.6]]
 
 |--------------+--------------------------------------------------------------------------------------------------------------------------------|
-| *Purpose     | Learn the basics of the language (syntax and semantic), its functional style and introduce some aspects of the platform (BEAM) |
+| *Purpose*    | Learn the basics of the language (syntax and semantic), its functional style and introduce some aspects of the platform (BEAM) |
 |--------------+--------------------------------------------------------------------------------------------------------------------------------|
 | Takeaways    | - Can write simple modules                                                                                                     |
 |              | - Can write unit tests                                                                                                         |
