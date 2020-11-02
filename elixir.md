@@ -6,7 +6,7 @@
 This book is the introduction to Elixir for experienced programmers, completely updated for Elixir 1.6 and beyond.
 
 |---------------|--------------------------------------------------------------------------------------------------------------------------------|
-| **Purpose**   | Teach the basics of the language (syntax and semantic), its functional style and introduce some aspects of the platform (BEAM) |
+| **Purpose**   | Learn the basics of the language (syntax and semantic), its functional style and introduce some aspects of the platform (BEAM) |
 |---------------|--------------------------------------------------------------------------------------------------------------------------------|
 | **Takeaways** | - Can write simple modules                                                                                                     |
 |               | - Can write unit tests                                                                                                         |
@@ -48,24 +48,43 @@ This book is the introduction to Elixir for experienced programmers, completely 
 | **Duration**  | 75 hours                                                                                                                       |
 |---------------|--------------------------------------------------------------------------------------------------------------------------------|
 
-### [Saša Jurić - Elixir in Action, Second Edition](https://www.manning.com/books/elixir-in-action-second-edition)
-This teaches you how to apply Elixir to practical problems associated
-with scalability, fault tolerance, and high availability. Along the
-way, you'll develop an appreciation for, and considerable skill in, a
-functional and concurrent style of programming.
+### [Elixir & OTP](https://pragmaticstudio.com/courses/elixir)
 
 |---------------|---|
-| **Purpose**   |   |
+| **Purpose**   | TODO luca  |
 |---------------|---|
 | **Takeaways** |   |
 |---------------|---|
 | **Target**    |   |
 |---------------|---|
-| **Format**    |   |
+| **Format**    | Online course with exercises  |
 |---------------|---|
 | **Content**   |   |
 |---------------|---|
 | **Duration**  |   |
+|---------------|---|
+
+### [Saša Jurić - Elixir in Action, Second Edition](https://www.manning.com/books/elixir-in-action-second-edition)
+ Along the
+way, you'll develop an appreciation for, and considerable skill in, a
+functional and concurrent style of programming.
+
+|---------------|---|
+| **Purpose**   | Teach how to apply Elixir to practical problems associated with scalability, fault tolerance, and high availability.  |
+|---------------|---|
+| **Takeaways** | - Deal with the challenge of high availability |
+                  - How to build production-ready, Elixir-based systems
+                  - Understand basic underlying elements of Erlang VM
+                  - Introduction of basic OTP framework usage
+|---------------|---|
+| **Target**    | Programmers with previous knowledge of Elixir language but doesn't know how to design a real application    |
+|---------------|---|
+| **Format**    | Book (paper / digital)                                                                                                         |
+|               | Can be studied autonomously or guided by an internal tutor                                                                     |
+|---------------|---|
+| **Content**   | TO DO - fabio  |
+|---------------|---|
+| **Duration**  | 50 hours     |
 |---------------|---|
 
 ### [James Edward Gray, II and Bruce A. Tate - Designing Elixir Systems with OTP](https://pragprog.com/titles/jgotp/)
@@ -74,17 +93,20 @@ shape the right data structures, flow from one function into the next,
 and present the right APIs.
 
 |---------------|---|
-| **Purpose**   |   |
+| **Purpose**   |  Teach how to design and test typical OTP project |
 |---------------|---|
-| **Takeaways** |   |
+| **Takeaways** | - Opinionated way to structure a Elixir/OTP application  |
+                  - Improve confidence layering Elixir/OTP application 
+                  - Explore OTP capabilities for real-life projects
 |---------------|---|
-| **Target**    |   |
+| **Target**    | Intermediate and advanced programmers who want a better understanding of how to design Elixir projects   |
 |---------------|---|
-| **Format**    |   |
+| **Format**    | Book (paper / digital)                                                                                                         |
+|               | Can be studied autonomously or guided by an internal tutor                                                                     |
 |---------------|---|
-| **Content**   |   |
+| **Content**   |  TO DO - luca |
 |---------------|---|
-| **Duration**  |   |
+| **Duration**  | 35 hours  |
 |---------------|---|
 
 ### [Metaprogramming Elixir Write Less Code, Get More Done (and Have Fun!)](https://pragprog.com/titles/cmelixir/metaprogramming-elixir/)
@@ -97,17 +119,22 @@ first-class features, optimize performance, and create domain-specific
 languages.
 
 |---------------|---|
-| **Purpose**   |   |
+| **Purpose**   | Teach the very basics of metaprogramming all the way to writing your own language features and custom libraries  |
 |---------------|---|
-| **Takeaways** |   |
+| **Takeaways** | - Understanding the basics of Elixir’s metaprogramming system with macros and the abstract syntax tree  |
+                  - Extending Elixir with your own first-class features
+                  - Properly testing your metaprogramming-based code
+                  - Using metaprogramming responsibly and avoiding pitfalls
+                  - Quickly master the ins and outs and be ready to start writing robust libraries
 |---------------|---|
-| **Target**    |   |
+| **Target**    | Elixir programmer who has passed the basics and is ready to take his or her skills to the next level |
 |---------------|---|
-| **Format**    |   |
+| **Format**    | Book (paper / digital)                                                                                                         |
+|               | Can be studied autonomously or guided by an internal tutor                                                                     |
 |---------------|---|
-| **Content**   |   |
+| **Content**   |  TODO - fabio |
 |---------------|---|
-| **Duration**  |   |
+| **Duration**  |  30 hours  |
 |---------------|---|
 
 ### [Property-Based Testing with PropEr, Erlang, and Elixir Find Bugs Before Your Users Do ](https://pragprog.com/titles/fhproper/property-based-testing-with-proper-erlang-and-elixir/)
@@ -123,7 +150,26 @@ found. With this book, you will be writing efficient property-based
 tests in no time.
 
 |---------------|---|
-| **Purpose**   |   |
+| **Purpose**   | Make confident enough to use the most advanced features of PropEr and basic understanding of property-based testing  |
+|---------------|---|
+| **Takeaways** | - Understanding the basic and foundational principles of property-based testing  |
+                  - How property-based testing can be used in a realistic project
+                  - How to write properties for checking implementation correctness
+|---------------|---|
+| **Target**    | Programmers who know enough of Erlang or Elixir to feel comfortable writing a small project  |
+|---------------|---|
+| **Format**    | Book (paper / digital)                                                                                                         |
+|               | Can be studied autonomously or guided by an internal tutor                                                                     |
+|---------------|---|
+| **Content**   | TODO - luca |
+|---------------|---|
+| **Duration**  | 35 hours   |
+|---------------|---|
+
+### [Full-Stack GraphQL with Absinthe, Phoenix, and React](https://pragmaticstudio.com/courses/unpacked-full-stack-graphql-with-absinthe-phoenix-react)
+
+|---------------|---|
+| **Purpose**   | TODO danilo  |
 |---------------|---|
 | **Takeaways** |   |
 |---------------|---|
@@ -136,12 +182,43 @@ tests in no time.
 | **Duration**  |   |
 |---------------|---|
 
+## Code practice
+
+### [exercism](https://exercism.io/tracks/elixir)
+
+|---------------|---|
+| **Purpose**   | Consolidate or/and explore Elixir syntax and standard library knowledge |
+|---------------|---|
+| **Takeaways** | How idiomatic solutions look like  |
+|---------------|---|
+| **Target**    | Programmers with minimum experience with Elixir     |
+|---------------|---|
+| **Format**    |  Can be studied autonomously or guided by an internal/external tutor   |
+|---------------|---|
+| **Content**   | Various exercises  |
+|---------------|---|
+| **Duration**  | N/A  |
+|---------------|---|
+
+## Kata
+
+### [cleancoders_openchat](https://github.com/sandromancuso/cleancoders_openchat/tree/starting-point)
+
+|---------------|---|
+| **Purpose**   | Use elixir knowledge to implement a server-side project |
+|---------------|---|
+| **Takeaways** | Create, test and analyze production like code  |
+|---------------|---|
+| **Target**    | Programmers with at least some knowledge in Elixir and OTP    |
+|---------------|---|
+| **Format**    | Can be studied autonomously or guided by an internal tutor     |
+|---------------|---|
+| **Content**   | Openchat exercise  |
+|---------------|---|
+| **Duration**  | N/A  |
+|---------------|---|
+
 ## Communities
 
 ### [beam-italia](https://beam-italia.slack.com/)
 This is the main italian community for Elixir and Erlang technologies.
-
-
-## Code practice
-
-### [exercism](https://exercism.io/tracks/elixir)
