@@ -3,6 +3,7 @@
 * Books
 
 [[https://pragprog.com/titles/elixir16/][Programming Elixir 1.6]]
+
 This book is the introduction to Elixir for experienced programmers, completely updated for Elixir 1.6 and beyond.
 
 |---------------+--------------------------------------------------------------------------------------------------------------------------------|
