@@ -1,0 +1,300 @@
+#+TITLE: elixir
+
+* Books & Courses
+
+
+[[https://pragprog.com/titles/elixir16/][Programming Elixir 1.6]]
+
+|-------------+--------------------------------------------------------------------------------------------------------------------------------|
+| *Purpose*   | Learn the basics of the language (syntax and semantic), its functional style and introduce some aspects of the platform (BEAM) |
+|-------------+--------------------------------------------------------------------------------------------------------------------------------|
+| *Takeaways* | - Can write simple modules                                                                                                     |
+|             | - Can write unit tests                                                                                                         |
+|             | - Can setup a basic project and run the main tasks needed for development                                                      |
+|             | - Should pair program with more senior programmers                                                                             |
+|             | - Understand most of the code in an existing project                                                                           |
+|-------------+--------------------------------------------------------------------------------------------------------------------------------|
+| *Target*    | Programmers without previous experience with Elixir                                                                            |
+|-------------+--------------------------------------------------------------------------------------------------------------------------------|
+| *Format*    | Book (paper / digital)                                                                                                         |
+|             | Can be studied autonomously or guided by an internal tutor                                                                     |
+|-------------+--------------------------------------------------------------------------------------------------------------------------------|
+| *Content*   | - Pattern Matching                                                                                                             |
+|             | - Immutability                                                                                                                 |
+|             | - Elixir Basics                                                                                                                |
+|             | - Anonymous Functions                                                                                                          |
+|             | - Modules and Named Functions                                                                                                  |
+|             | - Lists and Recursion excerpt                                                                                                  |
+|             | - Maps, Keyword Lists, Sets, and Structs                                                                                       |
+|             | - An Aside - What Are Types?                                                                                                   |
+|             | - Processing Collections—Enum and Stream                                                                                       |
+|             | - Strings and Binaries                                                                                                         |
+|             | - Control Flow                                                                                                                 |
+|             | - Organizing a Project                                                                                                         |
+|             | - Tooling excerpt                                                                                                              |
+|             | - Working with Multiple Processes                                                                                              |
+|             | - Nodes - The Key to Distributing Services                                                                                     |
+|             | - OTP: Servers                                                                                                                 |
+|             | - OTP: Supervisors                                                                                                             |
+|             | - A More Complex Example                                                                                                       |
+|             | - OTP: Applications                                                                                                            |
+|             | - Tasks and Agents                                                                                                             |
+|             | - Macros and Code Evaluation                                                                                                   |
+|             | - Linking Modules: Behavio(u)rs and use                                                                                        |
+|             | - Protocols - Polymorphic Functions                                                                                            |
+|             | - Writing Your Own Sigils                                                                                                      |
+|             | - Multi-app Umbrella Projects                                                                                                  |
+|-------------+--------------------------------------------------------------------------------------------------------------------------------|
+| *Duration*  | 75 hours                                                                                                                       |
+|-------------+--------------------------------------------------------------------------------------------------------------------------------|
+
+[[https://pragmaticstudio.com/courses/elixir][Elixir & OTP]]
+
+|-------------+----------------------------------------------------------------------------------------------------------|
+| *Purpose*   | Learn how to build a real Elixir/OTP application                                                         |
+|-------------+----------------------------------------------------------------------------------------------------------|
+| *Takeaways* | -                                                                                                        |
+|             | -                                                                                                        |
+|-------------+----------------------------------------------------------------------------------------------------------|
+| *Target*    | Programmers with previous knowledge of Elixir language but doesn't know how to design a real application |
+|-------------+----------------------------------------------------------------------------------------------------------|
+| *Format*    | Online course with exercises                                                                             |
+|-------------+----------------------------------------------------------------------------------------------------------|
+| *Content*   | - Create a Mix Project                                                                                   |
+|             | - High-Level Transformations                                                                             |
+|             | - Pattern Matching                                                                                       |
+|             | - Immutable Data                                                                                         |
+|             | - Function Clauses                                                                                       |
+|             | - Advanced Pattern Matching                                                                              |
+|             | - Pattern Matching Maps                                                                                  |
+|             | - Serving Files                                                                                          |
+|             | - Module Attributes                                                                                      |
+|             | - Organizing Code                                                                                        |
+|             | - Modeling with Structs                                                                                  |
+|             | - Matching Heads and Tails                                                                               |
+|             | - Recursion                                                                                              |
+|             | - Comprehensions                                                                                         |
+|             | - Test Automation                                                                                        |
+|             | - Concurrent, Isolated Processes                                                                         |
+|             | - Stateful Server Processes                                                                              |
+|             | - OTP GenServer                                                                                          |
+|             | - Final OTP Application                                                                                  |
+|-------------+----------------------------------------------------------------------------------------------------------|
+| *Duration*  | 6 hours                                                                                                  |
+|-------------+----------------------------------------------------------------------------------------------------------|
+
+[[https://www.manning.com/books/elixir-in-action-second-edition][Saša Jurić - Elixir in Action, Second Edition]]
+
+|-------------+----------------------------------------------------------------------------------------------------------------------|
+| *Purpose*   | Learn how to apply Elixir to practical problems associated with scalability, fault tolerance, and high availability. |
+|-------------+----------------------------------------------------------------------------------------------------------------------|
+| *Takeaways* | - Deal with the challenge of high availability                                                                       |
+|             | - How to build production-ready, Elixir-based systems                                                                |
+|             | - Understand basic underlying elements of Erlang VM                                                                  |
+|             | - Introduction of basic OTP framework usage                                                                          |
+|-------------+----------------------------------------------------------------------------------------------------------------------|
+| *Target*    | Programmers with previous knowledge of Elixir language but doesn't know how to design a real application             |
+|-------------+----------------------------------------------------------------------------------------------------------------------|
+| *Format*    | Book (paper / digital)                                                                                               |
+|             | Can be studied autonomously or guided by an internal tutor                                                           |
+|-------------+----------------------------------------------------------------------------------------------------------------------|
+| *Content*   | - First steps                                                                                                        |
+|             | - Building blocks                                                                                                    |
+|             | - Control flow                                                                                                       |
+|             | - Data abstractions                                                                                                  |
+|             | - Concurrency primitives                                                                                             |
+|             | - Generic server processes                                                                                           |
+|             | - Building a concurrent system                                                                                       |
+|             | - Fault-tolerance basics                                                                                             |
+|             | - Isolating error effects                                                                                            |
+|             | - Beyond GenServer                                                                                                   |
+|             | - Working with components                                                                                            |
+|             | - Building a distributed system                                                                                      |
+|             | - Running the system                                                                                                 |
+|-------------+----------------------------------------------------------------------------------------------------------------------|
+| *Duration*  | 50 hours                                                                                                             |
+|-------------+----------------------------------------------------------------------------------------------------------------------|
+
+[[https://pragprog.com/titles/jgotp/][James Edward Gray, II and Bruce A. Tate - Designing Elixir Systems with OTP]]
+
+|-------------+--------------------------------------------------------------------------------------------------------|
+| *Purpose*   | Learn how to design and test typical OTP project                                                       |
+|-------------+--------------------------------------------------------------------------------------------------------|
+| *Takeaways* | - Opinionated way to structure a Elixir/OTP application                                                |
+|             | - Improve confidence layering Elixir/OTP application                                                   |
+|             | - Explore OTP capabilities for real-life projects                                                      |
+|-------------+--------------------------------------------------------------------------------------------------------|
+| *Target*    | Intermediate and advanced programmers who want a better understanding of how to design Elixir projects |
+|-------------+--------------------------------------------------------------------------------------------------------|
+| *Format*    | Book (paper / digital)                                                                                 |
+|             | Can be studied autonomously or guided by an internal tutor                                             |
+|-------------+--------------------------------------------------------------------------------------------------------|
+| *Content*   | - Build Your Project in Layers                                                                         |
+|             | - Choose the Right Datatypes                                                                           |
+|             | - How to design with the Right Data Layer                                                              |
+|             | - Build a Functional Core                                                                              |
+|             | - Test Your Core                                                                                       |
+|             | - Isolate Process Machinery in a Boundary                                                              |
+|             | - Customize Your Lifecycle                                                                             |
+|             | - Assemble Your Components                                                                             |
+|             | - Test the Boundary                                                                                    |
+|             | - Integrate OTP Dependencies into Phoenix                                                              |
+|             | - Configure Applications to Start Supervisors                                                          |
+|-------------+--------------------------------------------------------------------------------------------------------|
+| *Duration*  | 35 hours                                                                                               |
+|-------------+--------------------------------------------------------------------------------------------------------|
+
+[[https://pragprog.com/titles/cmelixir/metaprogramming-elixir/][Metaprogramming Elixir Write Less Code, Get More Done (and Have Fun!)]]
+
+|-------------+-----------------------------------------------------------------------------------------------------------------|
+| *Purpose*   | Learn the very basics of metaprogramming all the way to writing your own language features and custom libraries |
+|-------------+-----------------------------------------------------------------------------------------------------------------|
+| *Takeaways* | - Understanding the basics of Elixir’s metaprogramming system with macros and the abstract syntax tree          |
+|             | - Extending Elixir with your own first-class features                                                           |
+|             | - Properly testing your metaprogramming-based code                                                              |
+|             | - Using metaprogramming responsibly and avoiding pitfalls                                                       |
+|             | - Quickly master the ins and outs and be ready to start writing robust libraries                                |
+|-------------+-----------------------------------------------------------------------------------------------------------------|
+| *Target*    | Elixir programmer who has passed the basics and is ready to take his or her skills to the next level            |
+|-------------+-----------------------------------------------------------------------------------------------------------------|
+| *Format*    | Book (paper / digital)                                                                                          |
+|             | Can be studied autonomously or guided by an internal tutor                                                      |
+|-------------+-----------------------------------------------------------------------------------------------------------------|
+| *Content*   | - Introduction                                                                                                  |
+|             | - The Language of Macros *excerpt                                                                               |
+|             | - Extending Elixir with Metaprogramming                                                                         |
+|             | - Advanced Compile-Time Code Generation                                                                         |
+|             | - How to Test Macros                                                                                            |
+|             | - Creating an HTML Domain-Specific Language                                                                     |
+|             | - Getting Domain Specific                                                                                       |
+|             | - With Great Power Comes Great Responsibility (and Fun!)                                                        |
+|-------------+-----------------------------------------------------------------------------------------------------------------|
+| *Duration*  | 30 hours                                                                                                        |
+|-------------+-----------------------------------------------------------------------------------------------------------------|
+
+[[https://pragprog.com/titles/fhproper/property-based-testing-with-proper-erlang-and-elixir/][Property-Based Testing with PropEr, Erlang, and Elixir Find Bugs Before Your Users Do]]
+
+|-------------+---------------------------------------------------------------------------------------------------------------------|
+| *Purpose*   | Make confident enough to use the most advanced features of PropEr and basic understanding of property-based testing |
+|-------------+---------------------------------------------------------------------------------------------------------------------|
+| *Takeaways* | - Understanding the basic and foundational principles of property-based testing                                     |
+|             | - How property-based testing can be used in a realistic project                                                     |
+|             | - How to write properties for checking implementation correctness                                                   |
+|-------------+---------------------------------------------------------------------------------------------------------------------|
+| *Target*    | Programmers who know enough of Erlang or Elixir to feel comfortable writing a small project                         |
+|-------------+---------------------------------------------------------------------------------------------------------------------|
+| *Format*    | Book (paper / digital)                                                                                              |
+|             | Can be studied autonomously or guided by an internal tutor                                                          |
+|-------------+---------------------------------------------------------------------------------------------------------------------|
+| *Content*   | - Foundations of Property-Based Testing                                                                             |
+|             | - Property-Based Testing in Your Project                                                                            |
+|             | - Structure of Properties                                                                                           |
+|             | - Thinking in Properties                                                                                            |
+|             | - Generalizing Example Tests                                                                                        |
+|             | - Symmetric Properties                                                                                              |
+|             | - Custom Generators                                                                                                 |
+|             | - Fancy Custom Generators                                                                                           |
+|             | - Responsible Testing                                                                                               |
+|             | - Properties-Driven Development                                                                                     |
+|             | - Shrinking                                                                                                         |
+|             | - Understanding Targeted Properties                                                                                 |
+|             | - Laying Out Stateful Properties                                                                                    |
+|             | - Laying Out State Machine Properties                                                                               |
+|-------------+---------------------------------------------------------------------------------------------------------------------|
+| *Duration*  | 35 hours                                                                                                            |
+|-------------+---------------------------------------------------------------------------------------------------------------------|
+
+[[https://pragmaticstudio.com/courses/unpacked-full-stack-graphql-with-absinthe-phoenix-react][Full-Stack GraphQL with Absinthe, Phoenix, and React]]
+
+|-------------+------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Purpose*   | Explore the design and code of a full-featured application with specific libraries                                                                   |
+|-------------+------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Takeaways* | - In this video series they explore the design and code of a full-featured application that let's you search for and book getaways to unique places. |
+|             | - Use Absinthe, Phoenix                                                                                                                              |
+|-------------+------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Target*    | Programmers with previous knowledge of Elixir language and know how to design a basic real application                                               |
+|-------------+------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Format*    | Online course with exercises                                                                                                                         |
+|-------------+------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Content*   | - GraphQL Schemas                                                                                                                                    |
+|             | - Queries and Mutations                                                                                                                              |
+|             | - Subscriptions over Phoenix Channels                                                                                                                |
+|             | - Resolvers                                                                                                                                          |
+|             | - Error and Loading States                                                                                                                           |
+|             | - Ecto Schemas                                                                                                                                       |
+|             | - Dataloader                                                                                                                                         |
+|             | - Authentication                                                                                                                                     |
+|             | - Apollo Client                                                                                                                                      |
+|             | - React-Apollo Components                                                                                                                            |
+|             | - Client-Side Caching                                                                                                                                |
+|             | - Pagination                                                                                                                                         |
+|             | - Optimizing Queries with Dataloader                                                                                                                 |
+|             | - Absinthe Mutations                                                                                                                                 |
+|-------------+------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Duration*  | 4.5 hours                                                                                                                                            |
+|-------------+------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+What the BEAM: Introduction to the Erlang/Elixir Virtual Machine
+
+|-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Purpose*   | Consolidate or/and explore Elixir syntax and standard library knowledge                                                                                                                                                                                                               |
+|-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Takeaways* | To leverage the most of Erlang/Elixir it is not enough to know the language, the semantics of these languages are inextricably linked to their runtime: the BEAM virtual machine. A two-day course to explore BEAM, its characteristics, how to make the most of it and what to avoid |
+|-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Target*    | Programmers with minimum experience with Elixir                                                                                                                                                                                                                                       |
+|-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Format*    | Course with external tutor (Gabriele Santomaggio)                                                                                                                                                                                                                                     |
+|-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Content*   | - BEAM Overview                                                                                                                                                                                                                                                                       |
+|             | - What is a Erlang/Elixir node                                                                                                                                                                                                                                                        |
+|             | - Processes                                                                                                                                                                                                                                                                           |
+|             | - Message Passing                                                                                                                                                                                                                                                                     |
+|             | - Scheduler Overview                                                                                                                                                                                                                                                                  |
+|             | - BEAM Tuning Overview                                                                                                                                                                                                                                                                |
+|             | - OTP                                                                                                                                                                                                                                                                                    |
+|-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Duration*  | 2 days (16 hours)                                                                                                                                                                                                                                                                     |
+|-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+* Code practice
+
+[[https://exercism.io/tracks/elixir][exercism]]
+
+|-------------+-------------------------------------------------------------------------|
+| *Purpose*   | Consolidate or/and explore Elixir syntax and standard library knowledge |
+|-------------+-------------------------------------------------------------------------|
+| *Takeaways* | How idiomatic solutions look like                                       |
+|-------------+-------------------------------------------------------------------------|
+| *Target*    | Programmers with minimum experience with Elixir                         |
+|-------------+-------------------------------------------------------------------------|
+| *Format*    | Can be studied autonomously or guided by an internal/external tutor     |
+|-------------+-------------------------------------------------------------------------|
+| *Content*   | Various exercises                                                       |
+|-------------+-------------------------------------------------------------------------|
+| *Duration*  | N/A                                                                     |
+|-------------+-------------------------------------------------------------------------|
+
+* Kata
+
+
+[[https://github.com/sandromancuso/cleancoders_openchat/tree/starting-point][cleancoders_openchat]]
+
+|-------------+------------------------------------------------------------|
+| *Purpose*   | Use elixir knowledge to implement a server-side project    |
+|-------------+------------------------------------------------------------|
+| *Takeaways* | Create, test and analyze production like code              |
+|-------------+------------------------------------------------------------|
+| *Target*    | Programmers with at least some knowledge in Elixir and OTP |
+|-------------+------------------------------------------------------------|
+| *Format*    | Can be studied autonomously or guided by an internal tutor |
+|-------------+------------------------------------------------------------|
+| *Content*   | Openchat exercise                                          |
+|-------------+------------------------------------------------------------|
+| *Duration*  | N/A                                                        |
+|-------------+------------------------------------------------------------|
+
+* Communities
+
+
+[[https://beam-italia.slack.com/][beam-italia]]
