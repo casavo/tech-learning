@@ -94,7 +94,7 @@
 
 ### [Machine Learning](machineLearning.md)
 
-### Kubernetes (k8s)
+### [Kubernetes (k8s)](kubernetes.md)
 
 ### Docker
 
