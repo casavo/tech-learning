@@ -2,6 +2,7 @@
 
 * Books & Courses
 
+
 [[https://pragprog.com/titles/elixir16/][Programming Elixir 1.6]]
 
 |-------------+--------------------------------------------------------------------------------------------------------------------------------|
@@ -53,12 +54,31 @@
 | *Purpose*   | Learn how to build a real Elixir/OTP application                                                         |
 |-------------+----------------------------------------------------------------------------------------------------------|
 | *Takeaways* | -                                                                                                        |
+|             | -                                                                                                        |
 |-------------+----------------------------------------------------------------------------------------------------------|
 | *Target*    | Programmers with previous knowledge of Elixir language but doesn't know how to design a real application |
 |-------------+----------------------------------------------------------------------------------------------------------|
 | *Format*    | Online course with exercises                                                                             |
 |-------------+----------------------------------------------------------------------------------------------------------|
-| *Content*   | -                                                                                                        |
+| *Content*   | - Create a Mix Project                                                                                   |
+|             | - High-Level Transformations                                                                             |
+|             | - Pattern Matching                                                                                       |
+|             | - Immutable Data                                                                                         |
+|             | - Function Clauses                                                                                       |
+|             | - Advanced Pattern Matching                                                                              |
+|             | - Pattern Matching Maps                                                                                  |
+|             | - Serving Files                                                                                          |
+|             | - Module Attributes                                                                                      |
+|             | - Organizing Code                                                                                        |
+|             | - Modeling with Structs                                                                                  |
+|             | - Matching Heads and Tails                                                                               |
+|             | - Recursion                                                                                              |
+|             | - Comprehensions                                                                                         |
+|             | - Test Automation                                                                                        |
+|             | - Concurrent, Isolated Processes                                                                         |
+|             | - Stateful Server Processes                                                                              |
+|             | - OTP GenServer                                                                                          |
+|             | - Final OTP Application                                                                                  |
 |-------------+----------------------------------------------------------------------------------------------------------|
 | *Duration*  | 6 hours                                                                                                  |
 |-------------+----------------------------------------------------------------------------------------------------------|
@@ -124,7 +144,7 @@
 | *Duration*  | 35 hours                                                                                               |
 |-------------+--------------------------------------------------------------------------------------------------------|
 
-[[https://pragprog.com/titles/cmelixir/metaprogramming-elixir/][Metaprogramming Elixir Write Less Code, Get More Done (and Have Fun!]]
+[[https://pragprog.com/titles/cmelixir/metaprogramming-elixir/][Metaprogramming Elixir Write Less Code, Get More Done (and Have Fun!)]]
 
 |-------------+-----------------------------------------------------------------------------------------------------------------|
 | *Purpose*   | Learn the very basics of metaprogramming all the way to writing your own language features and custom libraries |
@@ -186,22 +206,58 @@
 
 [[https://pragmaticstudio.com/courses/unpacked-full-stack-graphql-with-absinthe-phoenix-react][Full-Stack GraphQL with Absinthe, Phoenix, and React]]
 
-|-------------+--------------------------------------------------------------------------------------------------------|
-| *Purpose*   | Explore the design and code of a full-featured application with specific libraries                     |
-|-------------+--------------------------------------------------------------------------------------------------------|
-| *Takeaways* | -                                                                                                      |
-|-------------+--------------------------------------------------------------------------------------------------------|
-| *Target*    | Programmers with previous knowledge of Elixir language and know how to design a basic real application |
-|-------------+--------------------------------------------------------------------------------------------------------|
-| *Format*    | Online course with exercises                                                                           |
-|-------------+--------------------------------------------------------------------------------------------------------|
-| *Content*   | -                                                                                                      |
-|-------------+--------------------------------------------------------------------------------------------------------|
-| *Duration*  | 4.5 hours                                                                                              |
-|-------------+--------------------------------------------------------------------------------------------------------|
+|-------------+------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Purpose*   | Explore the design and code of a full-featured application with specific libraries                                                                   |
+|-------------+------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Takeaways* | - In this video series they explore the design and code of a full-featured application that let's you search for and book getaways to unique places. |
+|             | - Use Absinthe, Phoenix                                                                                                                              |
+|-------------+------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Target*    | Programmers with previous knowledge of Elixir language and know how to design a basic real application                                               |
+|-------------+------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Format*    | Online course with exercises                                                                                                                         |
+|-------------+------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Content*   | - GraphQL Schemas                                                                                                                                    |
+|             | - Queries and Mutations                                                                                                                              |
+|             | - Subscriptions over Phoenix Channels                                                                                                                |
+|             | - Resolvers                                                                                                                                          |
+|             | - Error and Loading States                                                                                                                           |
+|             | - Ecto Schemas                                                                                                                                       |
+|             | - Dataloader                                                                                                                                         |
+|             | - Authentication                                                                                                                                     |
+|             | - Apollo Client                                                                                                                                      |
+|             | - React-Apollo Components                                                                                                                            |
+|             | - Client-Side Caching                                                                                                                                |
+|             | - Pagination                                                                                                                                         |
+|             | - Optimizing Queries with Dataloader                                                                                                                 |
+|             | - Absinthe Mutations                                                                                                                                 |
+|-------------+------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Duration*  | 4.5 hours                                                                                                                                            |
+|-------------+------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+What the BEAM: Introduction to the Erlang/Elixir Virtual Machine
+
+|-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Purpose*   | Consolidate or/and explore Elixir syntax and standard library knowledge                                                                                                                                                                                                               |
+|-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Takeaways* | To leverage the most of Erlang/Elixir it is not enough to know the language, the semantics of these languages are inextricably linked to their runtime: the BEAM virtual machine. A two-day course to explore BEAM, its characteristics, how to make the most of it and what to avoid |
+|-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Target*    | Programmers with minimum experience with Elixir                                                                                                                                                                                                                                       |
+|-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Format*    | Course with external tutor (Gabriele Santomaggio)                                                                                                                                                                                                                                     |
+|-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Content*   | - BEAM Overview                                                                                                                                                                                                                                                                       |
+|             | - What is a Erlang/Elixir node                                                                                                                                                                                                                                                        |
+|             | - Processes                                                                                                                                                                                                                                                                           |
+|             | - Message Passing                                                                                                                                                                                                                                                                     |
+|             | - Scheduler Overview                                                                                                                                                                                                                                                                  |
+|             | - BEAM Tuning Overview                                                                                                                                                                                                                                                                |
+|             | - OTP                                                                                                                                                                                                                                                                                    |
+|-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| *Duration*  | 2 days (16 hours)                                                                                                                                                                                                                                                                     |
+|-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
 
 * Code practice
-
 
 [[https://exercism.io/tracks/elixir][exercism]]
 
