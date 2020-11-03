@@ -53,8 +53,13 @@
 |-------------+----------------------------------------------------------------------------------------------------------|
 | *Purpose*   | Learn how to build a real Elixir/OTP application                                                         |
 |-------------+----------------------------------------------------------------------------------------------------------|
-| *Takeaways* | -                                                                                                        |
-|             | -                                                                                                        |
+| *Takeaways* | - Modeling with structs and other data structures                                                        |
+|             | - Pattern matching to transform HTTP requests to responses                                               |
+|             | - File and socket I/O                                                                                    |
+|             | - Handling requests in concurrent processes                                                              |
+|             | - Running asynchronous tasks                                                                             |
+|             | - Storing state in GenServers                                                                            |
+|             | - Using Supervisors to recover from failures                                                             |
 |-------------+----------------------------------------------------------------------------------------------------------|
 | *Target*    | Programmers with previous knowledge of Elixir language but doesn't know how to design a real application |
 |-------------+----------------------------------------------------------------------------------------------------------|
@@ -239,7 +244,7 @@ What the BEAM: Introduction to the Erlang/Elixir Virtual Machine
 |-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | *Purpose*   | Consolidate or/and explore Elixir syntax and standard library knowledge                                                                                                                                                                                                               |
 |-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| *Takeaways* | To leverage the most of Erlang/Elixir it is not enough to know the language, the semantics of these languages are inextricably linked to their runtime: the BEAM virtual machine. A two-day course to explore BEAM, its characteristics, how to make the most of it and what to avoid |
+| *Takeaways* | - To leverage the most of Erlang/Elixir it is not enough to know the language, the semantics of these languages are inextricably linked to their runtime: the BEAM virtual machine. A two-day course to explore BEAM, its characteristics, how to make the most of it and what to avoid |
 |-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | *Target*    | Programmers with minimum experience with Elixir                                                                                                                                                                                                                                       |
 |-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
