@@ -10,6 +10,8 @@
 
 ### [eXtreme Programming (XP)](eXtremeProgramming.md)
 
+### [Continuous Delivery (CD)](ContinuousDelivery.md)
+
 ### Scrum
 
 ### LeSS - Large Scale Scrum
@@ -59,8 +61,6 @@
 ### Gang of four design patterns
 
 ### Continuous Integration (CI)
-
-### Continuous Delivery (CD)
 
 ### Consumer Driven Contract Tests
 
