@@ -54,7 +54,7 @@
 
 ### DevOps
 
-### UI testing automation
+### [UI testing automation](ui-testing.md)
 
 ### Working with legacy code
 
