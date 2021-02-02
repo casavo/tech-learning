@@ -10,3 +10,6 @@
 #### [freeCodeCamp - Javascript path](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
 #### [Frontend Masters](https://frontendmasters.com/learn/javascript/)
 #### [Testing Javascript by Kent C. Dodds](https://testingjavascript.com/)
+
+### Resources
+#### [Javascript & Node.Js Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
