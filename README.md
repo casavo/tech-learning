@@ -124,7 +124,7 @@
 
 ## Paradigms & Architectures
 
-### Functional Programming
+### [Functional Programming](functional-programming.md)
 
 ### Object Oriented Programming
 
