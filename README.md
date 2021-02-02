@@ -82,7 +82,7 @@
 
 ### Typescript
 
-### Javascript
+### [Javascript](javascript.md)
 
 ### CSS
 
