@@ -340,7 +340,7 @@ What the BEAM: Introduction to the Erlang/Elixir Virtual Machine
 |-------------+------------------------------------------------------------|
 
 
-* Commlunities
+* Communities
 
 
 
