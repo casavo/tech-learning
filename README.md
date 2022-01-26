@@ -1,145 +1,25 @@
 # Casavo Tech Learning
 
----
-
-
-
-
-
 ## Methodologies & techniques
 
-### [eXtreme Programming (XP)](eXtremeProgramming.md)
-
-### [Continuous Delivery (CD)](ContinuousDelivery.md)
-
-### Scrum
-
-### LeSS - Large Scale Scrum
-
-### Software Craftsmanship
-
-### DDD - Domain Driven Design
-
-### Lean
-
-### Kanban
-
-### Impact Mapping
-
-### User Story Mapping
-
-### Lift Off
-
-### Event Storming
-
-
-
----
-
-
+- **[Extreme Programming (XP)](methodologies/extreme-programming.md)**
+- **[Continuous Delivery (CD)](methodologies/continuous-delivery.md)**
+- **[Agile Testing Quadrants](methodologies/agile-testing-quadrants.md)**
 
 ## Practices
 
-### Classic Test Driven Development (TDD)
-
-### Refactoring
-
-### Clean Code
-
-### SOLID principles
-
-### GRASP
-
-### Mockist TDD
-
-### DevOps
-
-### [UI testing automation](ui-testing.md)
-
-### Working with legacy code
-
-### Gang of four design patterns
-
-### Continuous Integration (CI)
-
-### Consumer Driven Contract Tests
-
-### Web application security
-
-
-
----
-
-
+- **[UI Testing Automation](practices/ui-testing.md)**
 
 ## Technologies
 
-### [Elixir](elixir.org)
-
-### PHP
-
-### Kotlin
-
-### Typescript
-
-### [Javascript](javascript.md)
-
-### CSS
-
-### [React](react.md)
-
-### Git
-
-### [Data Science](dataScience.md)
-
-### [Machine Learning](machineLearning.md)
-
-### [Kubernetes (k8s)](kubernetes.md)
-
-### Docker
-
-### Cypress
-
-### Python
-
-### Emotion
-
-### [Node.js](nodejs.md)
-
-### Server Side Rendering
-
-### SEO
-
-### Relational Databases
-
-### No-Sql Databases
-
-### Graph Databases
-
-
-
----
-
-
+- **[Elixir](technologies/elixir.org)**
+- **[Javascript](technologies/javascript.md)**
+- **[React](technologies/react.md)**
+- **[Data Science](technologies/data-science.md)**
+- **[Machine Learning](technologies/machine-learning.md)**
+- **[Kubernetes](technologies/kubernetes.md)**
+- **[Node.js](technologies/nodejs.md)**
 
 ## Paradigms & Architectures
 
-### [Functional Programming](functional-programming.md)
-
-### Object Oriented Programming
-
-### Clean Architecture
-
-### Evolutionary Architecture
-
-### Microservice Architecture
-
-### CQRS + Event Sourcing
-
-### Event Driven Architecture
-
----
-
-## Testing and Quality Assurance
-
-### [Agile Testing Quadrants](testingAndQualityAssurance/agileTestingQuadrants.md)
+- **[Functional Programming](paradigms/functional-programming.md)**
