@@ -9,5 +9,3 @@
 ## Books
 ### Jez Humble, Continuous Delivery
 https://www.amazon.it/dp/0321601912/
-
-https://proweb.md/ftp/carti/Continuous-Delivery-Jez%20Humble-David-Farley.pdf
