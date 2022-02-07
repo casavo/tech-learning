@@ -28,6 +28,7 @@ You can find it [here](https://techradar.casavo.com/)!
 - **[Elixir](technologies/elixir.org)**
 - **[Javascript](technologies/javascript.md)**
 - **[React](technologies/react.md)**
+- **[Kotlin](technologies/kotlin.md)**
 - **[Data Science](technologies/data-science.md)**
 - **[Machine Learning](technologies/machine-learning.md)**
 - **[Kubernetes](technologies/kubernetes.md)**
