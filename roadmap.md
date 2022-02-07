@@ -31,7 +31,6 @@
 ## Technologies
 
 - PHP
-- Kotlin
 - Typescript
 - CSS
 - Git
