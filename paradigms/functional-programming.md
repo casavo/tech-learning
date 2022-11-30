@@ -5,5 +5,7 @@
 ### [Learn You a Haskell for Great Good](http://learnyouahaskell.com/)
 ### [Functional programing in Scala](https://www.manning.com/books/functional-programming-in-scala)
 
+
 ## Resources
 ### [fp-ts](https://gcanti.github.io/fp-ts/learning-resources/)
+### [F# for Fun and Profit](https://fsharpforfunandprofit.com/)
