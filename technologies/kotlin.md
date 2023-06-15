@@ -27,6 +27,7 @@
 ## Go deeper
 
 * Join the **[Kotlin Slack workspace](https://surveys.jetbrains.com/s3/kotlin-slack-sign-up)**
+* Follow Duncan McGregor's YouTube channel "Refactoring to Kotlin": https://www.youtube.com/@RefactoringDuncan
 * Read and follow the **[Kotlin's official forum](https://discuss.kotlinlang.org/)**
 
 ## Good books to learn Kotlin
