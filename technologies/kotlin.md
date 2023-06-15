@@ -32,4 +32,5 @@
 
 ## Good books to learn Kotlin
 * **[Programming Kotlin - Create Elegant, Expressive, and Performant JVM and Android Applications](https://pragprog.com/book/vskotlin/programming-kotlin)** by Venkat Subramaniam
+* **[From Objects to Functions](https://pragprog.com/titles/uboop/from-objects-to-functions)** by Uberto Barbini
 * **[Atomic Kotlin](https://www.atomickotlin.com/atomickotlin/)** by Bruce Eckel and Svetlana Isakova
