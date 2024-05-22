@@ -298,6 +298,59 @@ What the BEAM: Introduction to the Erlang/Elixir Virtual Machine
 |-------------+-----------------------------------------------------------------------------|
 
 
+
+
+[[https://pragmaticstudio.com/courses/phoenix-liveview][Phoenix LiveView]]
+
+|-------------+--------------------------------------------------------------------------------|
+| *Purpose*   | Learn how to build a full-stack Phoenix application                            |
+|-------------+--------------------------------------------------------------------------------|
+| *Takeaways* | - Creating dynamic forms and handling real-time updates                        |
+|             | - Implementing search, filtering, and sorting features                         |
+|             | - Managing live sessions and authenticating LiveViews                          |
+|             | - Handling file uploads (UI, server, cloud)                                    |
+|             | - Executing JS commands and utilizing JS hooks                                 |
+|-------------+--------------------------------------------------------------------------------|
+| *Target*    | Programmers with previous knowledge of Elixir language and a basic knowledge   |
+|             | of Pheonix or a MVC design framework                                           |
+|-------------+--------------------------------------------------------------------------------|
+| *Format*    | Online course with exercises                                                   |
+|-------------+--------------------------------------------------------------------------------|
+| *Content*   | - Basics of a LiveView                                                         |
+|             | - Button clicks                                                                |
+|             | - LiveView Life Cycle                                                          |
+|             | - Dynamic Form                                                                 |
+|             | - Dashboard                                                                    |
+|             | - Search                                                                       |
+|             | - Autocomplete                                                                 |
+|             | - Filtering                                                                    |
+|             | - Function Components                                                          |
+|             | - Live Navigation                                                              |
+|             | - Sorting                                                                      |
+|             | - Pagination                                                                   |
+|             | - Live Ecto Forms and Lists                                                    |
+|             | - Live Validations                                                             |
+|             | - Streams                                                                      |
+|             | - Toggling State                                                               |
+|             | - Live Components                                                              |
+|             | - Real-Time Updates                                                            |
+|             | - Authenticating LiveViews                                                     |
+|             | - Live Sessions                                                                |
+|             | - Presence Tracking                                                            |
+|             | - JS Commands                                                                  |
+|             | - JS Hooks                                                                     |
+|             | - Key Events                                                                   |
+|             | - File Uploads: UI                                                             |
+|             | - File Uploads: Server                                                         |
+|             | - File Uploads: Cloud                                                          |
+|-------------+--------------------------------------------------------------------------------|
+| *Duration*  | 12 hours                                                                       |
+|-------------+--------------------------------------------------------------------------------|
+
+
+
+
+
 * Code practice
 
 
