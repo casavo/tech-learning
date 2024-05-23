@@ -303,7 +303,7 @@ What the BEAM: Introduction to the Erlang/Elixir Virtual Machine
 [[https://pragmaticstudio.com/courses/phoenix-liveview][Phoenix LiveView]]
 
 |-------------+--------------------------------------------------------------------------------|
-| *Purpose*   | Learn how to build a full-stack Phoenix application                            |
+| *Purpose*   | Learn how to build a full-stack Phoenix application with LiveView              |
 |-------------+--------------------------------------------------------------------------------|
 | *Takeaways* | - Creating dynamic forms and handling real-time updates                        |
 |             | - Implementing search, filtering, and sorting features                         |
@@ -344,7 +344,7 @@ What the BEAM: Introduction to the Erlang/Elixir Virtual Machine
 |             | - File Uploads: Server                                                         |
 |             | - File Uploads: Cloud                                                          |
 |-------------+--------------------------------------------------------------------------------|
-| *Duration*  | 12 hours                                                                       |
+| *Duration*  | 16 hours                                                                       |
 |-------------+--------------------------------------------------------------------------------|
 
 
