@@ -76,5 +76,5 @@ Machine learning engineers come from software development and DevOps backgrounds
 ## Courses feedback
 
 ### Mathematics for Machine Learning (Coursera)
-Description: This course is an introduction to the mathematics involved in Machine Learning. It is divided in three submodules: Linear Algebra, Calculus and Probability and Statistics.   
-Feedback: The course is very well done, with interesting interactive examples and programming tasks relevant to the topics. However it is very basic, and sometimes it might appear to be too slow.
+* Description: This course is an introduction to the mathematics involved in Machine Learning. It is divided in three submodules: Linear Algebra, Calculus and Probability and Statistics.   
+* Feedback: The course is very well done, with interesting interactive examples and programming tasks relevant to the topics. However it is very basic, and sometimes it might appear to be too slow.
