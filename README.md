@@ -1,5 +1,8 @@
 # Casavo Tech Learning
 
+> [!WARNING]
+> **Archived** on 2026-10-24. This repository is read-only and kept for reference. See [Archive notes](#archive-notes).
+
 In this repo you can find a curated list of learning resources and learn paths. 
 
 These are the same resources we use in Casavo as part of our continuous improvement approach.
@@ -41,3 +44,9 @@ You can find it [here](https://techradar.casavo.com/)!
 ## Contributing
 
 In case you find any typo, error or misleading information please feel free to open a PR to contribute.
+
+## Archive notes
+
+**What it was.** A collection of learning material: courses, methodologies, paradigms, practices and a learning roadmap.
+
+**Why archived.** Historical knowledge from an earlier organisation of Casavo's teams; no updates since June 2024. Some practices described here may still be followed or worth reviving, but in a different format. It is kept read-only for reference. Nothing replaces it.
